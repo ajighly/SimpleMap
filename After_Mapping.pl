@@ -7,8 +7,7 @@
 ############################## SimpleMap 
 ############################## Script: After_Mapping.pl 
 ############################## Written by: Abdulqader Jighly
-############################## 		   abdulqader.jighly@depi.vic.gov.au
-############################## 		   a.jighly@cgiar.org
+############################## 		   abdulqader.jighly@agriculture.vic.gov.au
 ############################## Usage: perl After_Mapping.pl InputMapFile OutputMapFile
 
 #######################################################################################
